@@ -53,33 +53,33 @@ group :other_plugins do
     gem 'rouge', '4.3.0'
     gem 'terminal-table', '3.0.2'
     gem 'deep_merge', '1.2.2'
- * cssminify2 (2.0.1)
- * htmlcompressor (0.4.0)
- * json-minify (0.0.3)
- * uglifier (4.2.0)
- * bibtex-ruby (6.1.0)
- * citeproc-ruby (1.1.14)
- * csl-styles (1.0.1.11)
- * libv8-node (21.7.2.0)
- * loofah (2.22.0)
- * sax-machine (1.3.2)
- * mini_mime (1.1.5)
- * multi_xml (0.6.0)
- * public_suffix (6.0.1)
- * sass-embedded (1.69.5)
- * rexml (3.3.7)
- * unicode-display_width (2.5.0)
- * json (2.7.2)
- * latex-decode (0.4.0)
- * citeproc (1.0.10)
- * csl (1.6.0)
- * activesupport (7.1.4)
- * crass (1.0.6)
- * google-protobuf (3.25.4)
- * rake (13.2.1)
- * namae (1.2.0)
- * minitest (5.25.1)
- * ffi (1.17.0)
+    gem 'cssminify2', '2.0.1'
+    gem 'htmlcompressor', '0.4.0'
+    gem 'json-minify', '0.0.3'
+    gem 'uglifier', '4.2.0'
+    gem 'bibtex-ruby', '6.1.0'
+    gem 'citeproc-ruby','1.1.14'
+    gem 'csl-styles', '1.0.1.11'
+    gem 'libv8-node', '21.7.2.0'
+    gem 'loofah', '2.22.0'
+    gem 'sax-machine' ,'1.3.2'
+    gem 'mini_mime' ,'1.1.5'
+    gem 'multi_xml','0.6.0'
+    gem 'public_suffix', '6.0.1'
+    gem 'sass-embedded', '1.69.5'
+    gem 'rexml', '3.3.7'
+    gem 'unicode-display_width', '2.5.0'
+    gem 'json', '2.7.2'
+    gem 'latex-decode', '0.4.0'
+    gem 'citeproc', '1.0.10'
+    gem 'csl', '1.6.0'
+    gem 'activesupport', '7.1.4'
+    gem 'crass', '1.0.6'
+    gem 'google-protobuf', '3.25.4'
+    gem 'rake', '13.2.1'
+    gem 'namae', '1.2.0'
+    gem 'minitest', '5.25.1'
+    gem 'ffi' ,'1.17.0'
 
 end
 
