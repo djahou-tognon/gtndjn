@@ -1,8 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
-    gem 'jekyll'
-    gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-get-json'
@@ -16,7 +14,6 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
     gem 'jekyll-toc'
-    gem 'jekyll-twitter-plugin'
     gem 'jekyll', '4.3.3'
     gem 'jekyll-archives', '2.2.1'
     gem 'jekyll-email-protect', '1.1.0'
