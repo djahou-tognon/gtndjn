@@ -17,15 +17,9 @@ group :jekyll_plugins do
     gem 'jekyll-toc' ,'0.19.0'
     gem 'jekyll-twitter-plugin', '2.1.0'
     gem 'jemoji'
-    gem 'mini_racer'
-    gem 'unicode_utils'
     gem 'webrick'
-    gem 'concurrent-ruby', '1.3.4'
 end
 group :other_plugins do
-    gem 'css_parser'
-    gem 'feedjira'
-    gem 'httparty'    
     gem 'classifier-reborn', '2.3.0'
     gem 'mini_racer', '0.12.0'
     gem 'unicode_utils', '1.4.0'
