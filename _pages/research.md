@@ -11,7 +11,7 @@ nav_order: 1
 horizontal: false-->
 <!--<div class="area">
         <div class="areapicture">
-        <img src="/repository/assets/img/ddm.png" alt="" class="areaimag">
+        <img src="{{ site.baseurl }}/assets/img/ddm.png" alt="" class="areaimag">
         </div>
     <div class="research_area">
             <div class="title_area">
@@ -24,7 +24,7 @@ horizontal: false-->
 </div>-->
 <div class="area">
         <div class="areapicture">
-        <img src="/repository/assets/img/pint_r.png" alt="" class="areaimag">
+        <img src="{{ site.baseurl }}/assets/img/pint_r.png" alt="" class="areaimag">
         </div>
     <div class="research_area">
             <div class="title_area">
@@ -41,7 +41,7 @@ Second
 -->
 <div class="area">
         <div class="areapicture">
-        <img src="/repository/assets/img/control.jpeg" alt="" class="areaimag">
+        <img src="{{ site.baseurl }}/assets/img/control.jpeg" alt="" class="areaimag">
         </div>
     <div class="research_area">
             <div class="title_area">
@@ -55,7 +55,7 @@ Second
 
 <div class="area">
         <div class="areapicture">
-        <img src="/repository/assets/img/sciml_r.jpeg" alt="" class="areaimag">
+        <img src="{{ site.baseurl }}/assets/img/sciml_r.jpeg" alt="" class="areaimag">
         </div>
     <div class="research_area">
             <div class="title_area">
